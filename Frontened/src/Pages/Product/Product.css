@@ -1,0 +1,17 @@
+
+.size{
+    display:flex;
+    gap:20px;
+
+
+}
+.size1{
+    width:80px;
+    height:40px;
+    background-color: white;
+    border-radius:0;
+    color:black;
+}
+button:hover{
+    background-color:blueviolet;
+}

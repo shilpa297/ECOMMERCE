@@ -1,0 +1,32 @@
+
+.product-card {
+  width: 250px;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.product-image {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  object-fit: contain;
+}
+
+
+.title {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #333;
+}
+
+.price {
+  font-weight: bold;
+  font-size: 16px;
+  margin-right: 8px;
+}
+
+.old-price {
+  text-decoration: line-through;
+  color: #888;
+  font-size: 14px;
+}

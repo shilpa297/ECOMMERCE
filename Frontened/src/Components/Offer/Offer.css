@@ -1,0 +1,22 @@
+.offer{
+    display:flex;
+    padding:50px;
+    margin:0 auto;
+    background-color:black;
+    gap:270px;
+    color:white;
+    
+
+
+
+}
+h1{
+    font-style: oblique;
+    font-weight: bolder;
+    font-size:larger;
+}
+.offer-left{
+    margin-top:80px;
+    margin-right:20px;
+    
+}

@@ -1,0 +1,23 @@
+
+h1{
+    font-size: xx-large;
+    font-style: italic;
+}
+.hero{
+    display:flex;
+    gap:350px;
+}
+.hero-1{
+    padding:20px;
+}
+img{
+    height:800px;
+    width:600px;
+}
+button{
+    height:40px;
+    width:170px;
+    border-radius:12px;
+    background-color:red;
+    color:white;
+}
